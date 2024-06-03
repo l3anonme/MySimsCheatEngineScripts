@@ -11,7 +11,7 @@ writeBytes("MySims.exe+206B8C", 144)
     -- v
     -- nop nop
     -- (skips too many blocks error that puts arrows away)
-writeBytes("MySims.exe+206B8C", 144)
+writeBytes("MySims.exe+206B8D", 144)
     -- jnl Address
     -- v
     -- nop nop
