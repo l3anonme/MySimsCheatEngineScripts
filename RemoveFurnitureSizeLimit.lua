@@ -15,4 +15,4 @@ writeBytes("MySims.exe+206B8D", 144)
     -- jnl Address
     -- v
     -- nop nop
-    -- (skips too many block error that makes going to eccense mode break)
+    -- (skips too many block error that makes going to essence mode break)
